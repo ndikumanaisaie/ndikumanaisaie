@@ -20,7 +20,6 @@
 ![Hridoy's GitHub stats](https://github-readme-stats.vercel.app/api?username=ndikumanaisaie&show_icons=true&count_private=true&theme=great-gatsby) </br>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ndikumanaisaie&theme=great-gatsby&layout=compact)](https://github.com/ndikumanaisaie)
 </br>
-<b>Note:</b> Top languages is only a metric of the languages my public code consists of and doesn't reflect experience or skill level.
 
 ## Skills <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30px">&nbsp; 
 
