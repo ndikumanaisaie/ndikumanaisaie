@@ -6,10 +6,10 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndikumanaisaie" alt="ndikumanaisaie" /> </p>
 
-- 🌱 I’m learning ** Javascript, React, Rudux, ruby and ruby on rails **
+- 🌱 Full Stack JavaScript, React, Rudux, ruby and rails developer **
 - 👯 I’m looking to collaborate on Web Development Related Projects **
-- 🤔 I’m looking for help with Javascript **
-- 🥅 2022 Goals: To be profficient in javascript Stack :|
+- 📫 How to reach me: [Twitter](https://twitter.com/Ndikuma38670724), [Linkedin](https://www.linkedin.com/in/ndikumanaisaie/)
+- 🥅 2023 Goals: To be profficient in javascript Stack :|
 - ⚡ Fun fact: I love football, running.
 
 <p align="center">
