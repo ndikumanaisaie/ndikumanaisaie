@@ -1,6 +1,6 @@
 <h1 align="center">Hi, I am Ndikumana Isaie 👋</h1>
 
-### Full-Stack web developer ready for new opportunity
+### Full-Stack web developer ready for hire.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndikumanaisaie" alt="ndikumanaisaie" /> </p>
 
