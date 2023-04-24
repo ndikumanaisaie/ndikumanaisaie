@@ -2,8 +2,6 @@
 
 ### Full-Stack web developer ready for new opportunity
 
-- 🌱 I’m currently a student at microverse learning full-stack web development
-
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ndikumanaisaie" alt="ndikumanaisaie" /> </p>
 
 - 🌱 Full Stack JavaScript, React, Rudux, ruby and rails developer **
@@ -95,4 +93,4 @@
 -----
 Credits: [Ndikumana Isaie](https://github.com/ndikumanaisaie)
 
-Last Edited on: 10/06/2022
+Last Edited on: 24/04/2023
